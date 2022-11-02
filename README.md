@@ -49,7 +49,17 @@ I know it's crazy, but **I DON'T SHARE FOOD**  and i LOVE friends
 
 ## Contact Me 
 
-<a href="https://twitter.com/TheodoreNegusu" target="blank"><img align="left" src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/twitter.svg" alt="Theodore's Twitter" width="20px" /><a href="https://www.linkedin.com/in/theodore-negusu-7a37b5176/" target="blank"><img align="left" src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/linkedin.svg" alt="Theodore's Linked in" width="20px" /><a href=" https://t.me/baydis">  <img align="left" alt="Theodore's Telegram" width="20px" src="https://raw.githubusercontent.com/xtenzQ/xtenzQ/master/icons/telegram.svg" /><a href="https://instagram.com/bay-dis" target="blank"><img align="left" src="https://raw.githubusercontent.com/xtenzQ/xtenzQ/master/icons/instagram.svg" alt="Theodore's instagram" width="20px" /> 
+<a href="https://twitter.com/TheodoreNegusu" target="blank"><img align="left" src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/twitter.svg" alt="Theodore's Twitter" width="20px" />
+
+<a href="https://www.linkedin.com/in/theodore-negusu-7a37b5176/" target="blank">
+<img align="left" src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/linkedin.svg" alt="Theodore's Linked in" width="20px" />
+
+
+<a href="https://t.me/baydis">
+<img align="left" alt="Theodore's Telegram" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" />
+
+<a href="https://instagram.com/bay-dis" target="blank">
+<img align="left" src="https://www.sophe.org/wp-content/uploads/2020/02/instagram-logo-transparent-related-keywords-logo-instagram-vector-2017-115629178687gobkrzwak.png" alt="Theodore's instagram" width="20px" /> 
 
 <br/>
   <br/>
