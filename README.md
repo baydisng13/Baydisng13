@@ -51,7 +51,7 @@ I know it's crazy, but **I DON'T SHARE FOOD**  and i LOVE friends
 
 <a href="https://twitter.com/TheodoreNegusu" target="blank"><img align="left" src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/twitter.svg" alt="Theodore's Twitter" width="20px" />
 
-<a href="https://www.linkedin.com/in/theodore-negusu-7a37b5176/" target="blank">
+<a href="https://www.linkedin.com/in/theodore-negusu/" target="blank">
 <img align="left" src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/linkedin.svg" alt="Theodore's Linked in" width="20px" />
 
 
