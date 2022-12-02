@@ -14,40 +14,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Black Minimal Motivation Quote LinkedIn Banner](https://user-images.githubusercontent.com/44190023/205405064-5aa93cb8-34b2-4407-9231-b3e292a548a4.gif)
 
-# Hi there, This is Theodore 👋
+# Hi there, This is Theodore 
 
- I Live in Addis Ababa, Ethiopia. And I am a
-- Programmer,
-- UI Designer
-- Graphics Designer
-- Freelancer
-- Workholic
+- I Live in Addis Ababa, Ethiopia.
+- I Am `Programmer` `UI Designer` `Graphics Designer` `Freelancer` `Workholic`
+- Hobby `Music` `Blog` `Podcast` `Content Creating` `Work`
 
 ## BIO
 
 - 🏢 I'm currently working at **BN Software Technology**
-- ⚙️ I use daily: `.jsx`, `.js`, `.html`, `.css`, `.py`, `.psd`, `.xd`
+- ⚙️ I use daily: `.jsx`, `.js`, `.html`, `.css`, `.xd`, `.txt`
 - 🌍 I'm mostly active within the **CodeNight Community**
 - 💅 Previusly worked with: https://t.me/EventsEthiopia, https://ephone.app,  etc…
 - 🌱 Learning all about **React Related Staff**
 - 💬 Ping me about **Design**, **Branding**, **Marketing**, **Start-Up**, **React**, **UI/UX**  
 
-## FUN FACT ABOUT ME 
+## Where can you find me ?
 
-I know it's crazy, but **I DON'T SHARE FOOD**  and i LOVE friends
-
-<img src="https://c.tenor.com/TldoJfCHwU0AAAAC/friends-joey-tribbiani.gif" alt="Coder GIF" width="500">
-
-## HOBBY
-
-- Music
-- Blog
-- Podcast
-- Content Creating
-- Work
-
-## Contact Me 
 
 <a href="https://twitter.com/TheodoreNegusu" target="blank"><img align="left" src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/twitter.svg" alt="Theodore's Twitter" width="20px" />
 
@@ -68,3 +53,7 @@ I know it's crazy, but **I DON'T SHARE FOOD**  and i LOVE friends
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=baydisng13&theme=dark&show_icons=true" />
 </a>
+ 
+
+
+ 
