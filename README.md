@@ -56,10 +56,10 @@ Here are some ideas to get you started:
  
 # 📖 Latest Blog posts
 <!-- BAYDIS:START -->
+- [Podcasts Recommended by Codenight members](https://baydis.medium.com/podcasts-recommended-by-codenight-members-96cf784b68cc?source=rss-33b560fc6475------2)
 - [Is Now the Right Time to Start a Social Media App?](https://baydis.medium.com/is-now-the-right-time-to-start-a-social-media-app-2d69258de32a?source=rss-33b560fc6475------2)
 - [Uncover The Truth About Starting A Business &lpar;Start-Up&rpar; &amp; Why Everyone Is Obsessed With It](https://baydis.medium.com/uncover-the-truth-about-starting-a-business-start-up-why-everyone-is-obsessed-with-it-1dcf5960345b?source=rss-33b560fc6475------2)
 - [Documentation Driven Development — The Only Way to Code](https://baydis.medium.com/documentation-driven-development-the-only-way-to-code-e1633830cac8?source=rss-33b560fc6475------2)
 - [Disrupting the cafe Industry in Ethiopia &lpar; LOL  &rpar;](https://baydis.medium.com/disrupting-the-cafe-industry-in-ethiopia-lol-bab3d9e8ff27?source=rss-33b560fc6475------2)
-- [My Note for Graphics Designers](https://baydis.medium.com/my-note-for-graphics-designers-1fbbe7a4e7d0?source=rss-33b560fc6475------2)
 <!-- BAYDIS:END -->
  
