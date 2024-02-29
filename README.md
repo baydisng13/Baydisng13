@@ -56,10 +56,10 @@ Here are some ideas to get you started:
  
 # 📖 Latest Blog posts
 <!-- BAYDIS:START -->
+- [Building Addictive Products by Copying TikTok and Omegle  Strategy](https://baydis.medium.com/building-addictive-products-by-copying-tiktok-and-omegle-strategy-5065634e04df?source=rss-33b560fc6475------2)
 - [Being The Apple: A Freelancer’s Journey to Discovering Their True Worth in Pricing](https://baydis.medium.com/being-the-apple-a-freelancers-journey-to-discovering-their-true-worth-in-pricing-47b1ae98635a?source=rss-33b560fc6475------2)
 - [I Am a Drop out and You might be a Drop out too](https://baydis.medium.com/i-am-a-drop-out-and-you-might-be-a-drop-out-too-47c5cb2525c1?source=rss-33b560fc6475------2)
 - [Podcasts Recommended by Codenight members](https://baydis.medium.com/podcasts-recommended-by-codenight-members-96cf784b68cc?source=rss-33b560fc6475------2)
 - [Is Now the Right Time to Start a Social Media App?](https://baydis.medium.com/is-now-the-right-time-to-start-a-social-media-app-2d69258de32a?source=rss-33b560fc6475------2)
-- [Uncover The Truth About Starting A Business &lpar;Start-Up&rpar; &amp; Why Everyone Is Obsessed With It](https://baydis.medium.com/uncover-the-truth-about-starting-a-business-start-up-why-everyone-is-obsessed-with-it-1dcf5960345b?source=rss-33b560fc6475------2)
 <!-- BAYDIS:END -->
  
