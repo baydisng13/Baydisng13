@@ -56,10 +56,10 @@ Here are some ideas to get you started:
  
 # 📖 Latest Blog posts
 <!-- BAYDIS:START -->
+- [The &quot;Fake It Till You Make It&quot; Era Is Dead](https://baydis.medium.com/the-fake-it-till-you-make-it-era-is-dead-fa698d7c4c1e?source=rss-33b560fc6475------2)
 - [Why Life Doesn’t Come with a 40-Year plan](https://baydis.medium.com/why-life-doesnt-come-with-a-40-year-plan-d0ac4d00316e?source=rss-33b560fc6475------2)
 - [Is your product where it needs to be? The Value-Frequency Matrix Can Help You Find Out](https://baydis.medium.com/is-your-product-where-it-needs-to-be-the-value-frequency-matrix-can-help-you-find-out-07e37e00f154?source=rss-33b560fc6475------2)
 - [Building Scalable and Efficient Data Fetching with TanStack Query](https://baydis.medium.com/building-scalable-and-efficient-data-fetching-with-tanstack-query-79ce37b367a4?source=rss-33b560fc6475------2)
 - [Building Addictive Products by Copying TikTok and Omegle  Strategy](https://baydis.medium.com/building-addictive-products-by-copying-tiktok-and-omegle-strategy-5065634e04df?source=rss-33b560fc6475------2)
-- [Being The Apple: A Freelancer’s Journey to Discovering Their True Worth in Pricing](https://baydis.medium.com/being-the-apple-a-freelancers-journey-to-discovering-their-true-worth-in-pricing-47b1ae98635a?source=rss-33b560fc6475------2)
 <!-- BAYDIS:END -->
  
